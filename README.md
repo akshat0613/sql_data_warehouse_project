@@ -7,12 +7,12 @@ This project demonstrates an end-to-end data warehousing and analytics solution,
 Design and implement a modern data warehouse to consolidate data from multiple operational systems, enabling efficient reporting, dashboarding, and decision support.
 
 #### Specifications
-Data Sources: Import data from multiple systems (e.g., sales platform, customer database, product master) provided as CSV files.
-Data Cleaning: Handle missing values, remove duplicates, standardize formats, and validate business rules.
-Data Integration: Merge sources into a unified, analytics-friendly schema.
-Data Modeling: Create fact and dimension tables using a star/snowflake approach.
-Scope: Focus on the most recent snapshot of data; historical tracking optional.
-Documentation: Provide clear definitions for tables, columns, KPIs, and transformations.
+- Data Sources: Import data from multiple systems (e.g., sales platform, customer database, product master) provided as CSV files.
+- Data Cleaning: Handle missing values, remove duplicates, standardize formats, and validate business rules.
+- Data Integration: Merge sources into a unified, analytics-friendly schema.
+- Data Modeling: Create fact and dimension tables using a star/snowflake approach.
+- Scope: Focus on the most recent snapshot of data; historical tracking optional.
+- Documentation: Provide clear definitions for tables, columns, KPIs, and transformations.
 
 ### BI: Analytics & Reporting (Data Analytics)
 #### Objective
