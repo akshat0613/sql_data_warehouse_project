@@ -20,20 +20,20 @@ Use SQL to produce meaningful insights and KPIs for business stakeholders.
 
 #### Key Analysis Areas
 
-Customer Behavior – acquisition, retention, repeat purchases.
-Product Performance – top sellers, low performers, category trends.
-Sales Trends – revenue over time, seasonal patterns.
-Operational Metrics – order volume, fulfillment indicators.
-These analytics support data-driven strategy, planning, and optimization.
+- Customer Behavior – acquisition, retention, repeat purchases.
+- Product Performance – top sellers, low performers, category trends.
+- Sales Trends – revenue over time, seasonal patterns.
+- Operational Metrics – order volume, fulfillment indicators.
+- These analytics support data-driven strategy, planning, and optimization.
 
 ## Architecture Overview
-Raw data ingestion
-Staging & transformation
-Dimensional modeling
-SQL analytics & KPI layer
-Dashboard / reporting output
+- Raw data ingestion
+- Staging & transformation
+- Dimensional modeling
+- SQL analytics & KPI layer
+- Dashboard / reporting output
 
 ## Tech Stack
-SQL
-Data modeling
-ETL / ELT concepts
+- SQL
+- Data modeling
+- ETL / ELT concepts
