@@ -33,7 +33,7 @@ Dimensional modeling
 SQL analytics & KPI layer
 Dashboard / reporting output
 
-# Tech Stack
+## Tech Stack
 SQL
 Data modeling
 ETL / ELT concepts
